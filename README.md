@@ -11,7 +11,7 @@ Welcome to my github 🐱
 
 ---
  
-### Work and projects
+### Work and projects ⌨️
 
 I love open source and some misc stuff, so you'll find some topics over here:
 
@@ -33,7 +33,7 @@ Most related to: programming and security
 
 [Link 👉](https://girorme.github.io/)
 
----
+ ---
 
 ### Stats 🌟
 <a href="https://github-readme-stats.vercel.app/api?username=girorme&show_icons=true&theme=radical">
