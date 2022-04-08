@@ -31,7 +31,7 @@ I write posts on my personal blog (pt-br posts at this moment)
 
 Most related to: programming and security
 
-[Link 👉](https://girorme.github.io/)
+🔗 [Link](https://girorme.github.io/)
 
  ---
 
