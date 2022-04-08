@@ -33,6 +33,8 @@ Most related to: programming and security
 
 [Link 👉](https://girorme.github.io/)
 
+---
+
 ### Stats 🌟
 ![Girorme GitHub stats](https://github-readme-stats.vercel.app/api?username=girorme&show_icons=true&theme=radical)
 ![Girorme language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girorme&hide=html,css,dockerfile&layout=compact)
