@@ -36,5 +36,9 @@ Most related to: programming and security
 ---
 
 ### Stats 🌟
-![Girorme GitHub stats](https://github-readme-stats.vercel.app/api?username=girorme&show_icons=true&theme=radical)
-![Girorme language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girorme&hide=html,css,dockerfile&layout=compact)
+<a href="https://github-readme-stats.vercel.app/api?username=girorme&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=girorme&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=girorme&hide=html,css,dockerfile&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girorme&hide=html,css,dockerfile&layout=compact" />
+</a>
