@@ -5,8 +5,11 @@
 <a href="https://www.linkedin.com/in/rodrigo-girorme/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Hey there 👋,
+<p align="center">
+ <img align="center" src="https://github.com/girorme/girorme/assets/54730507/7596ce3a-c3fd-452e-8fe0-c408fc62e796" width="400" height="400"/>
+</p>
 
+Hey there 👋,
 Welcome to my github 🐱
 
 ---
