@@ -30,10 +30,10 @@ I love open source and some misc stuff, so you'll find some topics over here:
 
 ### Blog 🌱
 
-I write posts on my personal blog (currently in Portuguese). 
+I write posts on my personal blog. 
 Most of them are related to programming and security.
 
-🔗 [Link](https://girorme.github.io/)
+🔗 [Link](https://girorme.github.io/en)
 
  ---
 
