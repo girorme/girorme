@@ -18,7 +18,7 @@ Welcome to my github 🐱
 
 I love open source and some misc stuff, so you'll find some topics over here:
 
-- concurrent programming
+- misc tools
 - functional programming (elixir lang 💜)
 - security
 - poker ♦️
