@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <img align="center" src="https://github.com/girorme/girorme/assets/54730507/7596ce3a-c3fd-452e-8fe0-c408fc62e796" width="400" height="400"/>
+ <img align="center" src="https://github.com/user-attachments/assets/234c1719-b5b2-4900-b2bc-e3082f0e250c" width="400" height="400"/>
 </p>
 
 Hey there 👋,
