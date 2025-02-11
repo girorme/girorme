@@ -16,10 +16,10 @@ Welcome to my github 🐱
  
 ### Work and projects ⌨️
 
-I love open source and some misc stuff, so you'll find some topics over here:
+Open source and misc stuff, so you'll find some topics over here:
 
-- misc tools
-- functional programming (elixir lang 💜)
+- tools
+- functional programming (elixir/erlang)
 - security
 - poker ♦️
  ---
